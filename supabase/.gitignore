@@ -1,0 +1,4 @@
+# Supabase CLI - Files to ignore
+.temp_configs
+.local
+.env
